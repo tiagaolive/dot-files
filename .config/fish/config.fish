@@ -10,10 +10,10 @@ set -g theme_hide_hostname no
 set -g theme_hostname always
 
 # aliases
-alias ls "ls -p -G"
-alias la "ls -A"
-alias ll "ls -l"
-alias lla "ll -A"
+alias ls "ls -p -G --color=auto"
+alias la "ls -A --color=auto"
+alias ll "ls -l --color=auto"
+alias lla "ll -A --color=auto"
 alias g git
 command -qv nvim && alias vim nvim
 
