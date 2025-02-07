@@ -10,4 +10,3 @@ alias la='ls -A --color=auto'
 alias ll='ls -l --color=auto'
 alias lla='ll -A --color=auto'
 PS1='[\u@\h \W]\$ '
-tmux
