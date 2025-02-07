@@ -34,9 +34,6 @@ Session.vim
 .vim/snippets/
 .luarc.json
 
-# NeoVim
-.config/nvim/lazy-lock.json
-
 # Xcode
 build/
 *.pbxuser
